@@ -1,4 +1,4 @@
-<B>Hello and welcome to the Data Science Beginners Guide 
+<B>Hello and welcome to the Data Science Beginners Guide </B>
 
 I originally built this repository so that It will be helpful for my process of learning. Through building the repo I realized that other people might be also be interested in this content - so I have tried to curate content on data science topics, high quality resources to learn from, and relevant blog posts.  
 

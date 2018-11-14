@@ -75,7 +75,7 @@ A note about order - I framed the contents in the Pipeline & Tools section order
 
 ## Data Pipeline & Tools
 
-###Python
+### Python
 Python is my workhorse language specifically as it has many data science and statistic library, the ability to work in production environments, and work on other problems outside of data science.  There are many other languages that could be useful but are not covered here: Julia, R, Cython, Pig, Scala, Java, etc.
 
 * [Python @ Codecademy](http://www.codecademy.com/en/tracks/python) - If you have never used Python, right this way..
@@ -95,7 +95,7 @@ Python is my workhorse language specifically as it has many data science and sta
 * [Data Structures CheatSheet -smaller more readable](https://www.clear.rice.edu/comp160/data_cheat.html)
 * [Coursera: Stanford Algorithms Design & Analysis ](https://class.coursera.org/algo-006) - Course on algorithm design & analysis
 
-####Statistics
+#### Statistics
 Some primers on understanding statistics and other resources to get a deeper understanding.
 * [Statistics Without the Agonizing Pain](https://www.youtube.com/watch?v=5Dnw46eC-0o) - John Rauser's really great video on statistics - funny and engaging with a good message.
 * [Probability Programming and Bayesian Methods for Hackers](http://nbviewer.ipython.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Prologue/Prologue.ipynb) - full book all online through ipython notebooks.

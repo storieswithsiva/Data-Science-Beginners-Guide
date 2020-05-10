@@ -185,7 +185,7 @@ Feel free to share your ideas and thoughts.
 
 [![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)](https://towardsdatascience.com/a-beginners-guide-to-data-science-55edd0288973)
 
-- [Download](https://github.com/iamsivab/Data-Science-Beginners-Guide) for the report.
+- [Download](https://github.com/iamsivab/Data-Science-Beginners-Guide/pulls) for the report.
 
 ### Useful Links
 

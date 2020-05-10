@@ -16,7 +16,7 @@
 ### `#patternlearning` `#BagofWords` `#textanalytics`
 
 ### Motivation
-####Step 0. What is What
+### Step 0. What is What
 
 Well, generally speaking, Data Science is not a certain or a single one realm, it’s like a combination of various disciplines that are focusing on analyzing data and finding the best solutions based on them. Initially, those tasks were held by math or statistics specialists, but then data-experts began to use machine learning and artificial intelligence, which added optimization and computer science as a method for analyzing data. This new approach turned out to be much faster and effective, and so extremely popular.
 

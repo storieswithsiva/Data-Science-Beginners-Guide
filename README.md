@@ -2,7 +2,7 @@
 
 [![Makes people smile](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/iamsivab)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fiamsivab%2FData-Science-Beginners-Guide)
+[![HitCount](http://hits.dwyl.com/iamsivab/Data-Science-Beginners-Guide.svg)](http://hits.dwyl.com/iamsivab/Data-Science-Beginners-Guide)
 
 ## Data-Science-Beginners-Guide
 
